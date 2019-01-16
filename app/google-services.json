@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "687435026979",
+    "firebase_url": "https://fir-quiz-793e6.firebaseio.com",
+    "project_id": "fir-quiz-793e6",
+    "storage_bucket": "fir-quiz-793e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687435026979:android:ea7bf478edf8510b",
+        "android_client_info": {
+          "package_name": "com.example.krawo.firebasequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687435026979-9h6b97plauh8qktuhauiafihjo1m32m6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "687435026979-9h6b97plauh8qktuhauiafihjo1m32m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxLJ-VMRoJaxUr06T9M6kHF9swUcFmR7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
